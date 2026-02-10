@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="第 1 页" id="YPCsb2QbQ3DcE0dWZFZ8">
+    <mxGraphModel dx="2205" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R_dsnkhX_59eWSjl54pW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#FAE5C7;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;fillStyle=hachure;labelBackgroundColor=none;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px; color: rgb(0, 102, 204);&quot;&gt;&lt;u style=&quot;&quot;&gt;Yll&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Comic Sans MS&quot;&gt;路由器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="90" x="400" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-3" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="362" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-23" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-1" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Linux 内核" vertex="1">
+          <mxGeometry height="30" width="100" x="30" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-5" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-9" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-10" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-11" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="语言类" vertex="1">
+          <mxGeometry height="30" width="80" x="25" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-7" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="472" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-13" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-19" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="C" vertex="1">
+          <mxGeometry height="30" width="50" x="-70" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-15" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="shell" vertex="1">
+          <mxGeometry height="30" width="70" x="-80" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-17" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="python" vertex="1">
+          <mxGeometry height="30" width="80" x="-85" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="go" vertex="1">
+          <mxGeometry height="30" width="60" x="-70" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="Makefile" vertex="1">
+          <mxGeometry height="30" width="90" x="-90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-25" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-22" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="编程类" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-27" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;" target="R_dsnkhX_59eWSjl54pW-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-31" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="多线程/线程池" vertex="1">
+          <mxGeometry height="30" width="120" x="-140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-29" edge="1" parent="1" source="R_dsnkhX_59eWSjl54pW-22" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="R_dsnkhX_59eWSjl54pW-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="数据结构" vertex="1">
+          <mxGeometry height="30" width="90" x="-125" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-28" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="多路复用/select/poll/epoll" vertex="1">
+          <mxGeometry height="30" width="180" x="-170" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R_dsnkhX_59eWSjl54pW-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" value="网络编程" vertex="1">
+          <mxGeometry height="30" width="90" x="-125" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
